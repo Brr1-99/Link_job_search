@@ -1,6 +1,6 @@
 import webbrowser
 
-jobs = ["junior python", "python", "Ingeniero Electrónico"]
+jobs = ["python", "junior python"]
 
 def job_url(keywords: str) -> str: 
     keywords.replace(' ', '%20')
